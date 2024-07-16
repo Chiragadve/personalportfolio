@@ -1,9 +1,7 @@
 import type { TNavLink, TExperience, TProject } from '../types';
 
 import {
-  carrent,
   moviewebsite,
-  tripguide,
   maha_logo,
   nsmedia,
   frcrce,
